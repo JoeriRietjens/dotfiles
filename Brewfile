@@ -10,6 +10,7 @@ brew "git"
 brew "node"
 brew "pnpm"
 brew "postgresql", restart_service: true
+brew "thefuck"
 
 # GUI applications
 cask "dbeaver-community"
